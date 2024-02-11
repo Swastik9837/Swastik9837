@@ -1,19 +1,21 @@
-<h1 align="center">Hi 👋, I'm Swastik Rana</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h1 align="center">Hi there! 👋 I'm Swastik Rana</h1>
+<h3 align="center">Frontend Developer | India 🇮🇳</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" > 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swastik9837&label=Profile%20views&color=0e75b6&style=flat" alt="swastik9837" /> </p>
 
-- 🔭 I’m currently Doing course on **Reactjs with 25 + Projects**
+- 🔭 I've recently completed a comprehensive course on **React.js with 25 + Projects**
 
-- 🌱 I’m currently learning **React js and Backend**
+- 💼 Interned as a Frontend Developer at **Travel Creators**, a London-based startup focused on revolutionizing travel experiences.
 
-- 💬 Ask me about **React, Firebase, C++**
+- 🌱 Currently, I'm delving deeper into **React.js and Backend development**.
 
-- 📫 How to reach me **swastikfaftikrana@gmail.com**
+- 💬 Ask me about **React, Firebase, C++, or anything related to frontend development!**
 
-- ⚡ Fun fact **I can make your life a little less complicated !!**
+- 📫 You can reach me at **swastikfaftikrana@gmail.com**
+
+- ⚡ Fun fact: **I believe in making things simpler and more efficient, both in code and in life!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swastik9837&show_icons=true&locale=en" alt="swastik9837" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swastik9837&" alt="swastik9837" /></p>
+
