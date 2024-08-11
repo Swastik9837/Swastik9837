@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Swastik Rana</h1>
-<h3 align="center">Frontend Developer | India 🇮🇳</h3>
+<h3 align="center">Full-Stack Developer | India 🇮🇳</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" > 
 
@@ -7,11 +7,11 @@
 
 - 🔭 I've recently completed a comprehensive course on **React.js with 25 + Projects**
 
-- 💼 Interned as a Frontend Developer at **Travel Creators**, a London-based startup focused on revolutionizing travel experiences.
+- 💼 Interned as a Full-Stack Developer at **Travel Creators**, a London-based startup focused on revolutionizing travel experiences.
 
 - 🌱 Currently, I'm delving deeper into **React.js and Backend development**.
 
-- 💬 Ask me about **React, Firebase, C++, or anything related to frontend development!**
+- 💬 Ask me about **React, Firebase, C++, or anything related to Full-Stack Developer!**
 
 - 📫 You can reach me at **swastikfaftikrana@gmail.com**
 
