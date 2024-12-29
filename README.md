@@ -22,12 +22,17 @@
 - ⚡ Fun fact: **I believe in making things simpler and more efficient, both in code and in life!**
 
 <h3 align="left">Cool Projects:</h3>
-- 🚀 **StreamSpace:** A startup project providing backend and database support for new web developers, akin to Firebase, with sample apps in React and Angular.
-- 🧠 **IQ Level Project:** A creative web application designed with Angular, featuring interactive IQ tests, themes, and dynamic UI elements.
+<ul>
+  <li>🚀 **StreamSpace:** A startup project providing backend and database support for new web developers, akin to Firebase, with sample apps in React and Angular.</li>
+  <li>🧠 **IQ Level Project:** A creative web application designed with Angular, featuring interactive IQ tests, themes, and dynamic UI elements.</li>
+  <li>💡 **ZapTie:** A project leveraging **Ionic** and **Angular** to create a seamless task and collaboration management tool for teams.</li>
+</ul>
 
-<h3 align="left">Skills Distribution:</h3>
+<h3 align="left">📊 My Skill Highlights:</h3>
 <div align="center">
-  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['React','Angular','Ionic','.NET','Data Structures'],datasets:[{data:[25,25,20,20,10]}]},options:{plugins:{legend:{display:true,position:'bottom'}}}}" alt="Skills Pie Chart" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=swastik9837&show_icons=true&locale=en&layout=compact" alt="swastik9837">
+<img src="https://github-readme-stats.vercel.app/api?username=swastik9837&show_icons=true&locale=en" alt="swastik9837">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=swastik9837&" alt="swastik9837">
 </div>
 
 <h3 align="left">Connect with me:</h3>
@@ -52,9 +57,3 @@
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/> </a>
 <a href="https://ionicframework.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="ionic" width="40" height="40"/> </a>
 </p>
-<div class="text-center mx-4 mb-4">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=swastik9837&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="swastik9837">
-</div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swastik9837&show_icons=true&locale=en" alt="swastik9837" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swastik9837&" alt="swastik9837" /></p>
