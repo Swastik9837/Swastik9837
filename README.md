@@ -25,6 +25,11 @@
 - 🚀 **StreamSpace:** A startup project providing backend and database support for new web developers, akin to Firebase, with sample apps in React and Angular.
 - 🧠 **IQ Level Project:** A creative web application designed with Angular, featuring interactive IQ tests, themes, and dynamic UI elements.
 
+<h3 align="left">Skills Distribution:</h3>
+<div align="center">
+  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['React','Angular','Ionic','.NET','Data Structures'],datasets:[{data:[25,25,20,20,10]}]},options:{plugins:{legend:{display:true,position:'bottom'}}}}" alt="Skills Pie Chart" width="400"/>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/swastik-rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swastik-rana" height="30" width="40" /></a>
